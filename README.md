@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum 👋</h1>
+<h1 align="center">Sup! 👋</h1>
 
 ###
 
