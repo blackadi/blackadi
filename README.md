@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Solution Architects
 -------------------
 
-I've been working on the tech industry for more than 10+ years building enterprise-scale apps and learning AI driven solutions.
+I've been working on the tech industry for more than 10+ years building enterprise-scale apps and curently learning and building AI driven solutions.
 
 *   🌍  I'm based in Amman, Jordan
 *   🖥️  See my portfolio at [BlackAdi portfolio](http://portfolio-iota-three-g4xupbfqi0.vercel.app/)
