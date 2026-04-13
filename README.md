@@ -30,8 +30,24 @@ I've been working on the tech industry for more than 10+ years building enterpri
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/blackadi/authlete-node-authz-server" align="left"><img align="left" width="25%" src="https://github.com/blackadi/authlete-node-authz-server/blob/main/authlete-server.jpg" /></a><a href="https://github.com/blackadi/pwned-check" align="right"><img align="right" width="25%" src="https://github.com/blackadi/pwned-check/blob/main/pwned-check.jpg" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/blackadi/authlete-node-authz-server" align="left">
+    <img align="left" width="25%" src="https://github.com/blackadi/authlete-node-authz-server/blob/main/authlete-server.jpg" />
+  </a>
+  <a href="https://github.com/blackadi/pwned-check" align="left">
+    <img align="left" width="25%" src="https://github.com/blackadi/pwned-check/blob/main/pwned-check.jpg" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/blackadi/NodeJS-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackadi&repo=NodeJS-PROJECT&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/blackadi/NodeJS-PROJECT" align="left">
+    <img align="left" width="25%" src="https://github.com/blackadi/NodeJS-PROJECT/blob/main/nodejs-project.jpg" />
+  </a>
+  <a href="https://github.com/blackadi/chatty-nextauth" align="left">
+    <img align="left" width="25%" src="https://github.com/blackadi/chatty-nextauth/blob/main/chatty-nextauth.jpg" />
+  </a>
+</div>
