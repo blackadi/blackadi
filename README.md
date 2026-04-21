@@ -7,7 +7,7 @@ Solution Architect
 Enterprise software engineer with 10+ years of experience, currently building AI-powered systems (RAG, agents, embeddings, vector DBs) using LangChain/LangGraph and OpenAI/Anthropic. Strong bias toward secure, scalable, production-ready code. Coffee-fueled and always learning.
 
 *   🌍  I'm based in Amman, Jordan
-*   🖥️  See my portfolio at [BlackAdi Portfolio](http://portfolio-iota-three-g4xupbfqi0.vercel.app/)
+*   🖥️  See my portfolio at [BlackAdi Portfolio](https://blackadi-dev.netlify.app/)
 *   ✉️  You can contact me at [odai.shalabi@gmail.com](mailto:odai.shalabi@gmail.com)
 *   👥  I'm looking to collaborate on AI-powered systems (RAG, agents, embeddings, vector DBs,...)
 *   💬  Ask me about Call me coffee-man as I craft the best coffee drinks!
