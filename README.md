@@ -86,6 +86,9 @@ Enterprise software engineer with 10+ years of experience, currently building AI
   <a href="https://github.com/blackadi/pwned-check" align="left">
     <img align="left" width="25%" src="https://github.com/blackadi/pwned-check/blob/main/pwned-check.jpg" />
   </a>
+  <a href="https://github.com/blackadi/face-recognition" align="left">
+    <img align="left" width="25%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0lWq_c6_KshbMRKhftoJ1U9wQpNFQCBBYg&s" />
+  </a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
