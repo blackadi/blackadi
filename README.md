@@ -10,7 +10,7 @@ Enterprise software engineer with 10+ years of experience, currently building AI
 *   🖥️  See my portfolio at [BlackAdi Portfolio](https://blackadi-dev.netlify.app/)
 *   ✉️  You can contact me at [odai.shalabi@gmail.com](mailto:odai.shalabi@gmail.com)
 *   👥  I'm looking to collaborate on AI-powered systems (RAG, agents, embeddings, vector DBs,...)
-*   💬  Ask me about Call me coffee-man as I craft the best coffee drinks!
+*   ⚡ Call me coffee-man as I craft the best coffee drinks!
 
 ### Skills
 
