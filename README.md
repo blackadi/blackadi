@@ -81,13 +81,16 @@ Enterprise software engineer with 10+ years of experience, currently building AI
 
 <div width="100%" align="center">
   <a href="https://github.com/blackadi/authlete-node-authz-server" align="left">
-    <img align="left" width="25%" src="https://github.com/blackadi/authlete-node-authz-server/blob/main/authlete-server.jpg" />
+    <img align="left" width="20%" src="https://github.com/blackadi/authlete-node-authz-server/blob/main/authlete-server.jpg" />
   </a>
   <a href="https://github.com/blackadi/pwned-check" align="left">
-    <img align="left" width="25%" src="https://github.com/blackadi/pwned-check/blob/main/pwned-check.jpg" />
+    <img align="left" width="20%" src="https://github.com/blackadi/pwned-check/blob/main/pwned-check.jpg" />
   </a>
-  <a href="https://github.com/blackadi/face-recognition" align="left">
-    <img align="left" width="35%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0lWq_c6_KshbMRKhftoJ1U9wQpNFQCBBYg&s" />
+  <a href="https://github.com/blackadi/NodeJS-PROJECT" align="left">
+    <img align="left" width="20%" src="https://github.com/blackadi/NodeJS-PROJECT/blob/main/nodejs-project.jpg" />
+  </a>
+  <a href="https://github.com/blackadi/chatty-nextauth" align="left">
+    <img align="left" width="20%" src="https://github.com/blackadi/chatty-nextauth/blob/main/chatty-nextauth.jpg" />
   </a>
 </div>
 
@@ -96,13 +99,11 @@ Enterprise software engineer with 10+ years of experience, currently building AI
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-  <a href="https://github.com/blackadi/NodeJS-PROJECT" align="left">
-    <img align="left" width="25%" src="https://github.com/blackadi/NodeJS-PROJECT/blob/main/nodejs-project.jpg" />
+  
+  <a href="https://github.com/blackadi/blackadi-chatbot" align="right">
+    <img align="left" width="20%" src="https://github.com/blackadi/blackadi-chatbot/blob/main/demo.png" />
   </a>
-  <a href="https://github.com/blackadi/blackadi-chatbot" align="left">
-    <img align="left" width="40%" src="https://github.com/blackadi/blackadi-chatbot/blob/main/demo.png" />
-  </a>
-  <a href="https://github.com/blackadi/chatty-nextauth" align="left">
-    <img align="left" width="25%" src="https://github.com/blackadi/chatty-nextauth/blob/main/chatty-nextauth.jpg" />
+  <a href="https://github.com/blackadi/face-recognition" align="left">
+    <img align="left" width="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0lWq_c6_KshbMRKhftoJ1U9wQpNFQCBBYg&s" />
   </a>
 </div>
