@@ -94,12 +94,11 @@ Enterprise software engineer with 10+ years of experience, currently building AI
   </a>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 <div width="100%" align="center">
-  
   <a href="https://github.com/blackadi/blackadi-chatbot" align="right">
     <img align="left" width="20%" src="https://github.com/blackadi/blackadi-chatbot/blob/main/demo.png" />
   </a>
