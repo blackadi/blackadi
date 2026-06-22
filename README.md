@@ -80,7 +80,7 @@ Enterprise software engineer with 10+ years of experience, currently building AI
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/blackadi/authlete-node-authz-server" align="left">
+  <a href="https://github.com/blackadi/OAUTH2.0" align="left">
     <img align="left" width="20%" src="https://github.com/blackadi/authlete-node-authz-server/blob/main/authlete-server.jpg" />
   </a>
   <a href="https://github.com/blackadi/pwned-check" align="left">
